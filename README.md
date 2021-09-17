@@ -22,10 +22,8 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 ![Kalpesh's github stats](https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord)
 ******
-<!-- **Views:**<br>
-![Visitor Count](https://profile-counter.glitch.me/kalpeshmahida0212/count.svg) -->
 
-<hr>
+
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
