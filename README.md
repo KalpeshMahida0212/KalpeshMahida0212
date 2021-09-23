@@ -19,9 +19,8 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 - ⚡ Fun fact: I love playing Games and learning Web Development.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&locale=en" alt="kalpeshmahida0212" /></p>
 
-![Kalpesh's github stats](https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&hide_border=true&icon_color=5CFF33&theme=nord)
-******
 
 
 <p align="center">
