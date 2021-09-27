@@ -19,6 +19,8 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 - ⚡ Fun fact: I love playing Games and learning Web Development.
 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&locale=en" alt="kalpeshmahida0212" /></p>
 
 
