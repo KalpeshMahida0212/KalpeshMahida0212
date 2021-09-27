@@ -20,11 +20,11 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 - ⚡ Fun fact: I love playing Games and learning Web Development.
 
 
-*******
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&locale=en" alt="kalpeshmahida0212" /></p>
 
-
+*******
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
