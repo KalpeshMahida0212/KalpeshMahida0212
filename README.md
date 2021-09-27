@@ -19,12 +19,7 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 - ⚡ Fun fact: I love playing Games and learning Web Development.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-<!--
-**KalpeshMahida0212/kalpeshmahida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- <a href="https://i.imgur.com/H8dtFcC.gif"><img align="right" src="https://i.imgur.com/H8dtFcC.gif" title="source: imgur.com" /></a> -->
 *******
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&locale=en" alt="kalpeshmahida0212" /></p>
