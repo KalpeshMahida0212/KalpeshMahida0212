@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kalpesh Mahida]()👋
 
  
-Hey, I am second year student of Chandubhai S Patel Institute of Technology -[CSPIT], Anand. I'm a Web🕸 developer armed with an intermediate knowledge of C++ along with HTML, CSS, Javascript, jQuery for frontend portion.
+Hey, I am third year student of Chandubhai S Patel Institute of Technology -[CSPIT], Anand. I'm a Web🕸 developer armed with an intermediate knowledge of C++ along with HTML, CSS, Javascript, jQuery for frontend portion.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -18,11 +18,6 @@ mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 
 - ⚡ Fun fact: I love playing Games and learning Web Development.
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshmahida0212&show_icons=true&locale=en" alt="kalpeshmahida0212" /></p>
 
 *******
 
