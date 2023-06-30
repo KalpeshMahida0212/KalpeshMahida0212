@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kalpesh Mahida]()👋
 
  
-Hey, I am third year student of Chandubhai S Patel Institute of Technology -[CSPIT], Anand. I'm a Web🕸 developer armed with an intermediate knowledge of C++ along with HTML, CSS, Javascript, jQuery for frontend portion.
+Hey, I am third year student of Chandubhai S Patel Institute of Technology -[CSPIT], Anand. I'm a Web🕸 developer armed with an intermediate knowledge of C++ along with HTML, CSS, Javascript, jQuery,PHP,SQL.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
