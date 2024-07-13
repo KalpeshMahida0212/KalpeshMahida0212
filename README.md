@@ -17,8 +17,6 @@ Accomplished Full Stack Developer with expertise in Salesforce development, web 
 mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
 
 
-- ⚡ Fun fact: I love playing Games and learning Web Development.
-
 *******
 
 <p align="center">
