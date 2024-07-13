@@ -1,7 +1,7 @@
 ### Hi there, I'm [Kalpesh Mahida]()👋
 
  
-Hey, I am third year student of Chandubhai S Patel Institute of Technology -[CSPIT], Anand. I'm a Web🕸 developer armed with an intermediate knowledge of C++ along with HTML, CSS, Javascript, jQuery,PHP,SQL.
+Accomplished Full Stack Developer with expertise in Salesforce development, web design, and project management. Adept at driving feature enhancements, optimizing user experiences, and delivering innovative solutions. Proficient in multiple programming languages and frameworks, committed to continuous learning and emerging technologies.
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
