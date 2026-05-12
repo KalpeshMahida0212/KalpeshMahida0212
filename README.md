@@ -1,31 +1,37 @@
-### Hi there, I'm [Kalpesh Mahida]()👋
+### Kalpesh Mahida
 
- 
-Accomplished Full Stack Developer with expertise in Salesforce development, web design, and project management. Adept at driving feature enhancements, optimizing user experiences, and delivering innovative solutions. Proficient in multiple programming languages and frameworks, committed to continuous learning and emerging technologies.
+Full-Stack & Salesforce developer. Founder of **Buildify**. I ship products end-to-end — frontend, backend, infra, deploy, ops.
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Open to freelance & contract work: Salesforce (LWC/Apex), Next.js, Node, AWS/GCP, AI integrations.
 
-<!--
-**KalpeshMahida0212/kalpeshmahida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!-- <a href="https://i.imgur.com/H8dtFcC.gif"><img align="right" src="https://i.imgur.com/H8dtFcC.gif" title="source: imgur.com" /></a> -->
-*******
-- 💬 Ask me anything!
-     Always ready to help!🤩
+---
 
-- 📫 How to reach me: 
-mahidak965@gmail.com, will try my best to reply within 24 hrs🏁!
+#### What I'm building
 
+| Project | What it does | Stack |
+|---|---|---|
+| **[Buildify](https://buildifyapp.in)** | Web/dev agency + custom cold-outreach engine (scrape → qualify → email → follow-up) | Next.js · Node · Supabase · Resend · Render · Vercel |
+| **FocusTribe** | Team Pomodoro SaaS — focus rooms, streaks, 3 free productivity tools | Next.js · Supabase · Vercel |
+| **RFP Analyzer** | Enterprise RFP triage for UCI — score, extract requirements, Salesforce-fit proposals | React 18 · MUI · Node · Cloud Run · Firestore · Gemini + Claude |
+| **AI File Detection** | Salesforce Case-page LWC + Lambda heuristic detector for AI-generated uploads | LWC · Apex · AWS Lambda · ECR · API Gateway |
+| **Jarvis** | Local-first Claude Code session orchestrator + dashboard | Node · Supabase · Vercel · Ollama |
 
-*******
+---
 
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+#### Stack
 
-  <p align="center">
-    <a href="https://twitter.com/KalpeshMahida02" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/kalpesh-mahida-778103212" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:mahidak965@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-<!--     <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a> -->
-  </p>
-</p>
+**Salesforce** — LWC, Apex, Flows, Integrations
+**Frontend** — React, Next.js, TypeScript, MUI, Tailwind
+**Backend** — Node, Express, Python, REST APIs
+**Data** — Supabase, Postgres, Firestore
+**Cloud** — AWS (Lambda, ECR, API GW), GCP (Cloud Run), Vercel, Render
+**AI** — Gemini, Claude, OpenAI, Ollama
+
+---
+
+#### Reach me
+
+- Email — mahidak965@gmail.com (24h reply target)
+- LinkedIn — [kalpesh-mahida](https://www.linkedin.com/in/kalpesh-mahida-778103212)
+- Twitter/X — [@KalpeshMahida02](https://twitter.com/KalpeshMahida02)
+- Web — [buildifyapp.in](https://buildifyapp.in)
