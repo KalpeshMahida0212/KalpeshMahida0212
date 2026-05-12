@@ -11,7 +11,7 @@ Open to freelance & contract work: Salesforce (LWC/Apex), Next.js, Node, AWS/GCP
 | Project | What it does | Stack |
 |---|---|---|
 | **[Buildify](https://buildifyapp.in)** | Web/dev agency + custom cold-outreach engine (scrape → qualify → email → follow-up) | Next.js · Node · Supabase · Resend · Render · Vercel |
-| **[FocusTribe](https://focustribe.app)** | Team Pomodoro SaaS — focus rooms, streaks, 3 free productivity tools | Next.js · Supabase · Vercel |
+| **[FocusTribe](https://focustribe.in)** | Team Pomodoro SaaS — focus rooms, streaks, 3 free productivity tools | Next.js · Supabase · Vercel |
 | **RFP Analyzer** | Enterprise RFP triage for UCI — score, extract requirements, Salesforce-fit proposals | React 18 · MUI · Node · Cloud Run · Firestore · Gemini + Claude |
 | **AI File Detection** | Salesforce Case-page LWC + Lambda heuristic detector for AI-generated uploads | LWC · Apex · AWS Lambda · ECR · API Gateway |
 | **Jarvis** | Local-first Claude Code session orchestrator + dashboard | Node · Supabase · Vercel · Ollama |
